@@ -6,6 +6,7 @@ Imagem web!
 <img src="https://user-images.githubusercontent.com/54275445/79133294-28af0280-7d82-11ea-8288-998b202b9485.jpeg" widht="300" height="350">
 Imagem mobile!
 <br/>
+
 Participei da semana OmniStack 9.0, onde desenvolvi um projeto completo ( BackEnd, FrontEnd e Mobile )!
 
 Para o Backend desenvolvi uma API Rest em Node.js, utilizando: 
